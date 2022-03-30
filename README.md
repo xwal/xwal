@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<a href="#stats" align="center">
+    <img align="center" alt="Alex Lin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=xwal&count_private=true&show_icons=true&include_all_commits=true&show_owner=true&theme=dracula"/>
+</a>
+
 <!--
 **xwal/xwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
