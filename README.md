@@ -1,8 +1,14 @@
-### Hi there 👋
+Hi, I'm an iOS engineer, focusing on mobile software development.
+- 🔭 I’m currently working on Sigma Chain AG.
+- 🌱 I’m currently learning Web3.
+- 😄 Pronouns: iOS developer, Web3 builder.
+- ⚡ Fun fact: Code is Low!
+- 📫 How to reach me:
+  - Blog: https://chaosky.tech 
+  - Email: Y2hhb3NreS5tZUBnbWFpbC5jb20=
+  - Twitter: https://twitter.com/xwal69
 
-<a href="#stats" align="center">
-    <img align="center" alt="Alex Lin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=xwal&count_private=true&show_icons=true&include_all_commits=true&show_owner=true&theme=dracula"/>
-</a>
+![Metrics](/github-metrics.svg)
 
 <!--
 **xwal/xwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
