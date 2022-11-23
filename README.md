@@ -1,8 +1,8 @@
-Hi, I'm an iOS engineer, focusing on mobile software development.
+Hi, I'm an iOS software engineer, focusing on mobile software development.
 - 🔭 I’m currently working on Sigma Chain AG.
 - 🌱 I’m currently learning Web3.
 - 😄 Pronouns: iOS developer, Web3 builder.
-- ⚡ Fun fact: Code is Low!
+- ⚡ Fun fact: Code is Low! Not Your Keys, Not Your Coins. It’s That Simple.
 - 📫 How to reach me:
   - Blog: https://chaosky.tech 
   - Email: Y2hhb3NreS5tZUBnbWFpbC5jb20=
